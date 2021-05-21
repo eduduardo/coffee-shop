@@ -1,0 +1,46 @@
+{
+  "coffees": [
+    {
+      "id": 1,
+      "name": "Latte",
+      "price": 12.0,
+      "sizes": ["S", "M", "L"],
+      "image": "https://www.coffeeisland.gr/assets/img/product/SpanishLatte4.png"
+    },
+    {
+      "id": 2,
+      "name": "Macchiato",
+      "price": 24.0,
+      "sizes": ["M", "L", "XL"],
+      "image": "https://www.nespresso.com/ncp/modules/event-lattissima/images/recipes/timeless_macchiato.png"
+    },
+    {
+      "id": 3,
+      "name": "Café preto",
+      "price": 10.0,
+      "sizes": ["S", "M", "L"],
+      "image": "https://www.aconchegodaborges.com.br/wp-content/uploads/2015/02/xicara-cafe.png"
+    },
+    {
+      "id": 4,
+      "name": "Café espresso",
+      "price": 15.0,
+      "sizes": ["S", "M"],
+      "image": "https://www.delonghi.com/Global/recipes/Coffee/espresso.png"
+    },
+    {
+      "id": 5,
+      "name": "Soda italiana",
+      "price": 15.0,
+      "sizes": ["S", "M"],
+      "image": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/146/673/products/soda-de-maca-verde-cheia1-1add10532cbe52c9fb15934602213278-640-0.png"
+    },
+    {
+      "id": 6,
+      "name": "Café mocha",
+      "price": 15.0,
+      "sizes": ["S", "M"],
+      "image": "https://www.starbucksathome.com/my/sites/default/files/styles/recipe_recommendation/public/2021-03/CafeMocha_LongShadow_Cream_1.png?itok=0wfBhN13"
+    },
+  ]
+}
